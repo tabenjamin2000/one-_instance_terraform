@@ -1,0 +1,5 @@
+region          = "us-east-2"
+ami             = "ami-02f3416038bdb17fb"
+key_name        = "ohio_test"
+instance_type   = "t2.nano"
+server_name     = "QA-server"
